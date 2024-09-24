@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Andoniaina04/Andoniaina04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Andoniaina04/Andoniaina04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on you
 
 -  Hi, I'm Andoniaina, a SAYNA Learner
 -  I’m currently learning about web development
